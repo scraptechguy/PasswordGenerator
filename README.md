@@ -1,1 +1,3 @@
-Should run with Python 3 installed after copypasting to code editor like VS Code or Sublimetext
+## 23 lines of code that generate random passwords
+
++ Note: all libraires required are installed with Python 3.8 or later by default
